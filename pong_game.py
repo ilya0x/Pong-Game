@@ -325,7 +325,3 @@ while run:
         wn.blit(endscreen, (200, 250))
 
     pygame.display.update()
-
-'''
-
-'''
